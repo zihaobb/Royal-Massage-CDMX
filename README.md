@@ -1,2 +1,2 @@
 # Royal-Massage-CDMX
-![Site plan](https://ibb.co/cxgxZFz "Site plan")
+![Site plan](https://i.ibb.co/wY0YPWD/Royal-Massage-Readme.jpg "Site plan")
